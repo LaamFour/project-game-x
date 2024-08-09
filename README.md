@@ -1,2 +1,1 @@
-# project-game-x
-LAM GAME DEEEE
+Đây là project game X
